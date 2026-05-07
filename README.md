@@ -34,4 +34,4 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git" /> </p> <p align="center"> React.js • Node.js • Express.js • MongoDB <br/> JavaScript (ES6+) • REST APIs • OpenAI API <br/> Figma • Tailwind CSS • Git / GitHub </p>
 
 
-<!-- ===== FOOTER (Matching Gradient Wave) ===== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer"/> ```
+<!-- ===== FOOTER (Matching Gradient Wave) ===== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=140&section=footer"/>
