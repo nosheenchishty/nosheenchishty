@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- ===== HEADER (Purple → Red Gradient Wave) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=Nosheen&fontSize=42&fontAlignY=35&animation=fadeIn"/>
 
-<!--
-**nosheenchishty/nosheenchishty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===== TYPING ANIMATION (Purple → Red Gradient) ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=700&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Integration+Specialist;Building+Scalable+Web+Applications&gradient=8A2BE2,FF4D4D,FF0000" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ===== INTRO ===== -->
+<p align="center">
+  I help businesses build modern, scalable web applications with clean UI and AI-powered features that genuinely improve user experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Focus On
+
+
++ Clean, maintainable code
++ Smooth and intuitive user experience
++ Fully responsive design across all devices
++ Performance, scalability, and long-term reliability
+
+## Services
+
+- Full-Stack Web Development (MERN)
+- AI Chatbot & API Integrations (OpenAI, automation)
+- Figma to Responsive Website / Web App
+- UI/UX-Focused Frontend Development
+- Backend Development & REST API Integration
+
+
+## ⚙️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git" /> </p> <p align="center"> React.js • Node.js • Express.js • MongoDB <br/> JavaScript (ES6+) • REST APIs • OpenAI API <br/> Figma • Tailwind CSS • Git / GitHub </p>
+
+
+<!-- ===== FOOTER (Matching Gradient Wave) ===== --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer"/> ```
