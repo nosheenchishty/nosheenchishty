@@ -1,9 +1,9 @@
 <!-- ===== HEADER (Purple → Red Gradient Wave) ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=Nosheen&fontSize=42&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Nosheen%20Chishty&fontSize=48&fontAlignY=35&animation=twinkling&desc=Senior%20MERN%20Stack%20Developer&descAlignY=60&descSize=18"/>
 
-<!-- ===== TYPING ANIMATION (Purple → Red Gradient) ===== -->
+<!-- ===== TYPING ANIMATION (MATCHED PURPLE → PINK) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2800&pause=700&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Integration+Specialist;Building+Scalable+Web+Applications&gradient=8A2BE2,FF4D4D,FF0000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2600&pause=800&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;AI+Integration+Specialist;Building+Scalable+Web+Applications&gradient=8A2BE2,FF69B4,FF1493" />
 </p>
 
 <!-- ===== INTRO ===== -->
